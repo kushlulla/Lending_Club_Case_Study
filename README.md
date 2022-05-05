@@ -58,10 +58,10 @@ This function accepts 3 vairable out of which 2 are optional
    * If det to False will disable the display of the Barchart
    * True by defaul
 
-[](Images/Demo1.gif)
+![Demo1](Images/Demo1.gif)
 2. stateper()
 This function accepts 2 vairable out of which 1 is optional 
   1. Column name that you wish to analyse against state average displayed in a chart per state
   2. Subset of Data_Lc that you wish to analyse.(optional)(DataFrame)
 
-[](Images/Demo2.gif)
+![Demo2](Images/Demo2.gif)
