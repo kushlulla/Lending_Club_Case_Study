@@ -19,6 +19,7 @@ We are commissioned to find conditions that cause an applicant to default.
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 * [Demo](#Demo)
+* [Author](#Author)
 
 ## General Information
 - This case Study is a part of the couse the authors are pursuing at UpGrad in collaboration with IIIT (Banglore)
@@ -71,3 +72,8 @@ This function accepts 2 vairable out of which 1 is optional
   2. Subset of Data_Lc that you wish to analyse.(optional)(DataFrame)
 
 ![Demo2](Images/Demo2.gif)
+
+## Author
+This repo was Coded formated and uploaded by a team of 2 students from the C39 batch of UpGrad AI and ML Post grad. in affilation with IIIT(B)
+* Kush Naresh Lulla [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kush-lulla-74239611b/)
+* Gautam Joshi [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gautam-joshi-610661139/)
