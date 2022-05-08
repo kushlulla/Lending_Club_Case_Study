@@ -27,10 +27,16 @@ We are commissioned to find conditions that cause an applicant to default.
 - Our aim will be to find correlations between these featurs and come up with recommendations that lower the chances of default loans.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+#### As per our Analysis, we conclude that the main driving factors behind the loan charge offs are as follows:
+* Term of the loan
+* Interest rate applicable on the loan
+* Annual income of the applicant compared to state average
+* Purpose of the loan
+* Loan Amount
+* Credit hungriness of the applicant
+* Bankruptcy and Derogatory records of the applicants
+* Customer behavior aspects like high credit utilization and delinquency tendency. 
+
 
 ## Technologies Used
 - IDE - Jupyter 
